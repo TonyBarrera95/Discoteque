@@ -1,0 +1,12 @@
+F:\Escritorio\Programación\.NET\Discoteque\Discoteque.Business\bin\Debug\net7.0\Discoteque.Business.deps.json
+F:\Escritorio\Programación\.NET\Discoteque\Discoteque.Business\bin\Debug\net7.0\Discoteque.Business.dll
+F:\Escritorio\Programación\.NET\Discoteque\Discoteque.Business\bin\Debug\net7.0\Discoteque.Business.pdb
+F:\Escritorio\Programación\.NET\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.csproj.AssemblyReference.cache
+F:\Escritorio\Programación\.NET\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.GeneratedMSBuildEditorConfig.editorconfig
+F:\Escritorio\Programación\.NET\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.AssemblyInfoInputs.cache
+F:\Escritorio\Programación\.NET\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.AssemblyInfo.cs
+F:\Escritorio\Programación\.NET\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.csproj.CoreCompileInputs.cache
+F:\Escritorio\Programación\.NET\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.dll
+F:\Escritorio\Programación\.NET\Discoteque\Discoteque.Business\obj\Debug\net7.0\refint\Discoteque.Business.dll
+F:\Escritorio\Programación\.NET\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.pdb
+F:\Escritorio\Programación\.NET\Discoteque\Discoteque.Business\obj\Debug\net7.0\ref\Discoteque.Business.dll
